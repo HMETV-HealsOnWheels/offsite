@@ -21,7 +21,7 @@ This is a simple `tkinter`-based Python application that sends commands to the o
 
 ### How It Connects
 
-This GUI communicates with the TCP server defined in the **Onboard Repository** [`server.py`](https://github.com/HMETV-HealsOnWheels/onboard/server.py).  
+This GUI communicates with the TCP server defined in the **Onboard Repository** [`server.py`](https://github.com/HMETV-HealsOnWheels/onboard/blob/main/server.py).  
 It sends string-based commands over port **5001** to the Raspberry Pi’s IP address.
 
 ---
