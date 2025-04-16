@@ -35,5 +35,5 @@ It sends string-based commands over port **5001** to the Raspberry Pi’s IP add
 
 ```bash
 python3 cart_controller_gui.py
-
+```
 
